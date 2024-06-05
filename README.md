@@ -1,7 +1,3 @@
-Certainly! Here's an updated README message for your GitHub repository `https://github.com/reams-kamat/intuji-assignment`:
-
----
-
 # Intuji Assignment - Google Calendar Integration
 
 This project demonstrates how to integrate with Google Calendar API using PHP. It allows you to list, create, and delete events from a connected Google Calendar.
